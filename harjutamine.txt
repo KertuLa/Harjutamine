@@ -1,3 +1,5 @@
 Github pakub veebimajutusteenust tarkvaraarenduseks, enamasti kasutavad seda tarkvaraarendajad, ettevõtted ning töörühmad.
 mina saan kasutada Githubi koolitöödeks ning ka omaenda projektide koodi salvestamiseks. 
 GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.
+git checkout main
+git merge teine-branch
